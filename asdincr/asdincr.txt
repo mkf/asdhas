@@ -1,0 +1,18 @@
+ASDINCR - Maksymalna zmiana
+
+Dany jest ciąg liczb całkowitych. Napisz program, który wypisuje na standardowym wyjściu największą z różnic bezwzględnych pomiędzy kolejnymi wartościami występującymi w tym ciągu oraz pierwszą z pozycji, na których taka różnica występuje.
+Wejście
+
+Pierwszy wiersz wejścia zawiera liczbę naturalną n, wskazującą na długość ciągu liczb całkowitych (2 <= n <= 1000). Drugi wiersz zawiera n wartości liczbowych ai (0 <= i < n; -100000 <= ai <= 100000), oddzielonych znakami odstępu.
+Wyjście
+
+Pierwszy i jedyny wiersz wyjścia zawiera dwie liczby oddzielone znakiem odstępu – maksymalną zmianę pomiędzy kolejnymi wartościami występującymi w ciągu wejściowym i pierwszą z pozycji (liczonych od zera), na których taka zmiana występuje.
+Przykład
+
+Wejście:
+6
+-3 0 -3 3 0 6
+
+Wyjście:
+6 2
+

@@ -1,0 +1,27 @@
+ASDMARD - Elementy otoczone jedynkami
+
+Napisz program, który pobiera ze standardowego wejścia wartości tworzące dwuwymiarową macierz zero-jedynkową, a następnie wypisuje na standardowym wyjściu współrzędne tych elementów macierzy, które są otoczone z każdej strony wartością 1.
+Wejście
+
+Pierwszy wiersz wejścia zawiera dwie liczby naturalne n i m, określające wymiary macierzy wejściowej (2 <= n, m <= 100). Każdy z kolejnych n wierszy zawiera m wartości liczbowych, zer lub jedynek, oddzielonych znakami odstępu.
+Wyjście
+
+Wyjście powinno składać się z tylu wierszy, ile elementów macierzy wejściowej jest otoczonych z każdej strony wartością 1. Każdy z takich wierszy powinien zawierać dwie wartości liczbowe: współrzędną wiersza i kolumny danego elementu (liczone od zera), oddzielone symbolem odstępu. Współrzędne elementów spełniających warunki zadania powinny być wypisywane w kolejności wartości współrzędnych (rosnąco według współrzędnej wiersza, następnie rosnąco według współrzędnej kolumny).
+Przykład
+
+Wejście:
+4 6
+1 1 1 0 1 1
+1 0 1 1 1 1
+1 1 1 1 1 1
+1 1 0 1 1 0
+
+Wyjście:
+0 3
+0 5
+1 1
+1 5
+3 0
+3 2
+3 5
+

@@ -1,0 +1,17 @@
+ASDPRIM - Liczba pierwsza
+
+Napisz program, który odczytuje ze standardowego wejścia liczbę naturalną, a następnie wypisuje na wyjściu wartość 1, jeśli liczba ta jest liczbą pierwszą lub 0, jeśli tak nie jest. Zastosuj standardowe techniki optymalizacyjne, aby zredukować liczbę wykonywanych operacji.
+Wejście
+
+Pierwszy i jedyny wiersz wejścia zawiera liczbę naturalną n (1 <= n < 2 ∙ 108). Liczba ta została zapisana w postaci dziesiętnej jako ciąg znaków.
+Wyjście
+
+Pierwszy i jedyny wiersz wyjścia zawiera wartość 0 lub 1.
+Przykład
+
+Wejście:
+18
+
+Wyjście:
+0
+

@@ -1,0 +1,17 @@
+ASDSMIT - Liczba Smitha
+
+Liczbę n nazwiemy liczbą Smitha, jeśli suma jej cyfr jest równa sumie wszystkich cyfr występujących w rozkładzie liczby n na czynniki pierwsze. Na przykład, 85 = 5 ∙ 17 jest liczbą Smitha, ponieważ 8 + 5 = 5 + 1 + 7. Napisz program, który odczytuje ze standardowego wejścia liczbę naturalną, a następnie wypisuje na wyjściu wartość 1, jeśli liczba ta jest liczbą Smitha lub 0, jeśli tak nie jest.
+Wejście
+
+Pierwszy i jedyny wiersz wejścia zawiera liczbę naturalną n (0 < n < 10000). Liczba ta została zapisana w postaci dziesiętnej jako ciąg znaków.
+Wyjście
+
+Pierwszy i jedyny wiersz wyjścia zawiera wartość 0 lub 1.
+Przykład
+
+Wejście:
+85
+
+Wyjście:
+1
+

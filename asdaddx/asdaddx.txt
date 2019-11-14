@@ -1,0 +1,18 @@
+ASDADDX - Suma dużych liczb naturalnych
+
+Napisz program, który wypisuje na standardowym wyjściu sumę dwóch liczb naturalnych odczytanych z wejścia. Liczby te mogą być tak duże, że niemożliwe będzie ich przechowanie w zmiennej liczbowej.
+Wejście
+
+Pierwszy wiersz wejścia zawiera liczbę naturalną a, a drugi liczbę naturalną b (0 < a, b < 10200). Obie liczby zostały zapisane w postaci dziesiętnej jako ciągi znaków.
+Wyjście
+
+Pierwszy i jedyny wiersz wyjścia zawiera sumę liczb a i b.
+Przykład
+
+Wejście:
+1000000000000028
+1000000000000004
+
+Wyjście:
+2000000000000032
+

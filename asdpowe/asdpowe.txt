@@ -1,0 +1,17 @@
+ASDPOWE - Potęga
+
+Napisz program, który odczytuje ze standardowego wejścia dwie liczby naturalne, a i n, a następnie wypisuje wartość wyrażenia an. Jedynymi operacjami arytmetycznymi, z których możesz korzystać, są operacje dodawania i odejmowania.
+Wejście
+
+Pierwszy i jedyny wiersz wejścia zawiera swie liczby naturalne, a oraz n, takie że an <= 21000. Obie liczby zostały zapisane w postaci dziesiętnej jako ciągi znaków oddzielone symbolem odstępu.
+Wyjście
+
+Pierwszy i jedyny wiersz wyjścia zawiera wartość wyrażenia an.
+Przykład
+
+Wejście:
+2 5
+
+Wyjście:
+32
+

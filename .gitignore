@@ -2,5 +2,8 @@
 !/**/
 !*.*
 !verified_to_work
+!time_limit_exceeded
+!MEM
+!failed_to_submit_on_time
 *.hi
 *.o
